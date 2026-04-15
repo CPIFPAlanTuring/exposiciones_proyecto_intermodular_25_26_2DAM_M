@@ -1,0 +1,4 @@
+# Solo versionar README.md (y este archivo, para poder compartir la regla del repo).
+/*
+!/.gitignore
+!/README.md
