@@ -104,7 +104,7 @@ Una fila por **proyecto**, en el **mismo orden** que el [planning horario](#plan
 | 5 | Bueno González, Salvador (`sbuegon0702@g.educaand.es`)<br>García Ruiz, Samuel (`sgarrui1201@g.educaand.es`)<br>García Luque, Mario (`mgarluq1102@g.educaand.es`) | PENDIENTE |
 | 6 | González Ortiz, María del Rosario (`mgonort380y@g.educaand.es`)<br>Jiménez Muñoz, Álvaro (`ajimmun901@g.educaand.es`) | PENDIENTE |
 | 7 | Vargas Berrocal, Ezequiel (`evarber0103@g.educaand.es`)<br>Domínguez González, José Antonio (`jdomgon334@g.educaand.es`) | PENDIENTE |
-| 8 | Diáñez Gómez, Guillermo (`gdiagom1205@g.educaand.es`) *(proyecto individual)* | PENDIENTE |
+| 8 | Diáñez Gómez, Guillermo (`gdiagom1205@g.educaand.es`) *(proyecto individual)* | [UniversalMotorsportTiming](https://github.com/therabbithd/repositorioexposicionUniversalMotorsportTiming)|
 | 9 | Cristóbal Gómez, Hugo de (`hcrigom053@g.educaand.es`) *(proyecto individual)* | PENDIENTE |
 
 ---
