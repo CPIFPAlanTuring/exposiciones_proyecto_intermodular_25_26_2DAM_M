@@ -98,7 +98,7 @@ Una fila por **proyecto**, en el **mismo orden** que el [planning horario](#plan
 | Orden (exposición) | Participantes (nombre completo y correo educaAnd) | URL del repositorio (información del proyecto) |
 |:------------------:|---------------------------------------------------|--------------------------------------------------|
 | 1 | Butrii, Sergii (`sbut0512@g.educaand.es`)<br>Faura Martín, Lucas (`lfaumar2508@g.educaand.es`)<br>Márquez Ruiz, Samuel (`smarrui1108@g.educaand.es`) | [BookMatch](https://github.com/Sergiibut05/Bookmatch/) |
-| 2 | Cobo Sánchez, Francisco de Asís (`fcobsan076@g.educaand.es`)<br>Salces Alcaraz, Antonio (`asalalc1312@g.educaand.es`)<br>Mora Mata, Ángela (`amormat1010@g.educaand.es`) | PENDIENTE |
+| 2 | Cobo Sánchez, Francisco de Asís (`fcobsan076@g.educaand.es`)<br>Salces Alcaraz, Antonio (`asalalc1312@g.educaand.es`)<br>Mora Mata, Ángela (`amormat1010@g.educaand.es`) | [Ziryab](https://github.com/Paco16889/TFG-Ziryab) |
 | 3 | Maldonado Triana, Alberto (`amaltri0308@g.educaand.es`)<br>Ballesteros Martínez, Javier (`jbalmar328@g.educaand.es`) | PENDIENTE |
 | 4 | López González, Jose María (`jlopgon0807b@g.educaand.es`)<br>Cano Jiménez, Antonio Lorenzo (`acanjim2704@g.educaand.es`)<br>Romero Maldonado, Adrián (`arommal0105@g.educaand.es`) | [Savorealo](https://github.com/savorealo/savorealo) |
 | 5 | Bueno González, Salvador (`sbuegon0702@g.educaand.es`)<br>García Ruiz, Samuel (`sgarrui1201@g.educaand.es`)<br>García Luque, Mario (`mgarluq1102@g.educaand.es`) | [MetaForce](https://github.com/Mariogarluu/Meta_Force_Expo) |
